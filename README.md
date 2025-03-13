@@ -1,4 +1,4 @@
 # annayoung1.github.io
 
-[**homework2-1**](https://github.com/annayoung1/annayoung1.github.io/blob/main/test1.html).
-[**homework2-2**](https://github.com/annayoung1/annayoung1.github.io/blob/main/homework2-2.html)
+[**homework2-1**](https://annayoung1.github.io/test1.html).
+[**homework2-2**](https://annayoung1.github.io/homework2-2.html)
